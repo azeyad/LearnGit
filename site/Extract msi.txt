@@ -1,0 +1,1 @@
+msiexec /a pathtoMSIfile /qb TARGETDIR=pathtotargetfolder
